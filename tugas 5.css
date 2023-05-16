@@ -1,0 +1,71 @@
+.style-logo{
+    position: absolute;
+    align-items: center;
+    width: 30px;
+    height: 70px;
+    left: 25px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    color: white;
+
+}
+
+.user{
+   position: absolute;
+   align-items: center;
+   height: 40px;
+   color: white;
+
+   left: 150px;
+   
+
+}
+
+.navbar{
+    color: white;
+}
+
+.bg{
+    background-color: aqua;
+}
+.JUDUL{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    text-align: center;
+}
+/* 
+.text1{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.text2{
+    font-size: 5px;
+    font-family: 'Times New Roman', Times, serif;
+} */
+
+.text3{
+    font-size: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:justify;
+}
+
+.huruf{
+    text-align: justify;
+}
+
+.offcanvas-body button{
+    position: absolute;
+    bottom: 15px;
+    width: 98%;
+    right: 10px;
+    font-weight: bold;
+    left: 5px;
+    text-align: center;
+    color: blue;
+    border-radius: 100;
+    background-color: rgb(0, 255, 76);
+ 
+}

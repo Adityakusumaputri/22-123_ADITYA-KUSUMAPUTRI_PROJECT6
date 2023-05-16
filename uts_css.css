@@ -1,0 +1,57 @@
+.login{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(43, 180, 226);
+}
+
+.offcanvas-body button{
+    position: absolute;
+    bottom: 15px;
+    width: 98%;
+    right: 10px;
+    font-weight: bold;
+    left: 5px;
+    text-align: center;
+    color:black;
+    border-radius: 100;
+    background-color: red;
+}
+
+
+.navbar{
+    color: white;
+}
+
+.bg{
+    background-color: aqua;
+}
+
+.JUDUL{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    text-align: center;
+}
+.content{
+    width: 900px;
+    background-color: aqua;
+    margin-left: 200px;
+}
+
+.secondary{
+    text-align: center;
+}
+
+.table{
+    text-align: center;
+}
+
+.user{
+    position: absolute;
+    align-items: center;
+    height: 40px;
+    color: white;
+ 
+    left: 150px;
+    
+ 
+ }
+
